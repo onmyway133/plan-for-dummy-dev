@@ -1,13 +1,13 @@
 # plan-for-dummy-dev
-A plan for dummy developer who would like to take a serious aboard job ✈️
+A plan for dummy developer who would like to take a serious abroad job ✈️
 
-# How serious(ly) ?
+# How serious ?
 
-At this time I'm writing this line. I'm so seriously to learn Data Structure + Algorithm from the scratch again.  
+At this time I'm writing this line. I'm so serious to learn Data Structure + Algorithm from scratch again.  
   
-The main reason why I'm doing a (shit) things, because I would like to apply a aboard job after I've finished everythings (which I've started) at feels.  
+The main reason why I'm doing this shit is because I 'd like to apply a abroad job after I've finished everything (which I've started) at feels.  
   
-Actually, as a iOS developer, in the whole working time, rarely I touch to Heap, Tree, Balance-Tree or Matric or advantage data structure or even some basic algorithm like heap sort, merging sort or somethings looks similars.
+Actually, as an iOS developer, in the whole working time, rarely do I touch Heap, Tree, Balance-Tree or Matric or advantage data structure or even some basic algorithm like heap sort, merging sort or somethings looks similars.
   
 Sometime I use Queue, Stack, Priority Queue or basic sort are enough.
   
@@ -17,12 +17,12 @@ And I know you're too (expept if you're a expert back-end or real data-science)
   
 Don't worry about it. I know it. **WE'RE DUMMY TOO**.  
   
-The secondary reason is I don't want to stay and work at VN anymore. Not because they people or quality of company or environment or gorvement. I know there are lot of awesome company/startup around here. Such as Gotit, NotABasement, Misfit, East Agile, ...
+The secondary reason is I don't want to stay and work in Vietnam anymore. Not because of the people or quality of company or environment or government. I know there are lot of awesome company/startup around here. Such as Gotit, NotABasement, Misfit, East Agile, ...
   
   
-All of them are really cool, and it was a my dream.
+All of them are really cool, and it was my dream.
 
-I don't want to be a "normal" people.
+I don't want to be just a "normal" people.
 
 1. Pass entrance examination university after high school
 2. Get a bachelors degree at 22 year old
@@ -31,7 +31,7 @@ I don't want to be a "normal" people.
 4. Get marriage at 25
 5. Have a children at 27
   
-and call it's successful (as their parent wants)
+and call it success (as their parent want)
 
 ^ ^ ^  
 
@@ -44,7 +44,7 @@ Find some girl, and to next step.
 
 If I close my eyes and do it, I will be the same people I know.  
   
-IT's so **boring** at all.
+IT's so **fucking boring** at all.
   
 I want to step out **COMFORTABLE ZONE** (at feels - for 3 years)
   
@@ -56,7 +56,7 @@ I feels I have more motivation to do it.
   
 They can do it, so I can to it do
 
-# What's this repo ?
+# What's in this repo ?
 
 This repos is a best place to list the road map to achieve my goal.
   
